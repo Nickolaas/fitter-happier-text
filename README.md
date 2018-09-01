@@ -1,6 +1,6 @@
-# Fitter Happier Text
+# Nickier Sappier Text
 
-Performant, fully fluid headings
+really bad, forked from jx
 
 ---
 
@@ -12,7 +12,7 @@ Include `dist/fitter-happier-text.js` in your project or install from NPM:
 npm install fitter-happier-text
 ```
 
-(or download it https://github.com/jxnblk/fitter-happier-text/archive/0.0.1.zip)
+(or download it https://github.com/nickolaas/fitter-happier-text/archive/0.0.1.zip)
 
 Pass it a nodelist.
 
